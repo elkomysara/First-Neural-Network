@@ -90,7 +90,6 @@ def solution(number):
 > Learning when deep learning actually adds value (and when it doesn't!) is one of the most practical skills in the AI toolkit. 🧠📊  
 > @AfricaAIHub @StratagemAfrica #AfricaAI #MachineLearning #Keras #DeepLearning
 
-**Post link:** `← paste your link here`
 
 ---
 
@@ -100,6 +99,4 @@ def solution(number):
 2. Click **Runtime → Run all**
 3. All outputs and charts will be generated automatically
 
----
 
-*Submitted as part of AfricaAIHub / StratagemAfrica learning programme*
